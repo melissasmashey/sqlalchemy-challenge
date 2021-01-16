@@ -4,7 +4,7 @@
 
 Files included:
 
-Python(.pynb):
+Python(.pynb):(3 Files)
 
 climate_starter
 
@@ -13,14 +13,14 @@ temp_analysis_bonus_1_starter
 temp_analysis_bonus_2_starter
 
 
-Sqlite:
+Sqlite:(1 file)
 
 hawaii.sqlite
 
-Py File (.py):
+Py File (.py):(1 file)
 app
 
-Resources Folder:
+Resources Folder:(3 Files)
 
 hawaii.sqlite
 
@@ -29,7 +29,7 @@ Hawaii_measurements.csv
 Hawaii_stations.csv
 
 
-Images Folder:
+Images Folder:(3 images)
 
 Daily Normals.png
 
